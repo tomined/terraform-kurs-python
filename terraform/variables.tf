@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "python_gruppa_zasoboow"
+  default = "pythongruppazasoboow"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "aplikacja_python_cosTestowego"
+  default     = "aplikacjapythoncosTestowego"
 }
 
 variable "location" {
